@@ -4,7 +4,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx parcel build ./index.html",
-    "start": "(npx parcel ./index.html) & npx watch ./index.html & (echo Server running at http://localhost:1234)"
+    "start": "(npx parcel ./index.html) & npx watch ./index.html & (echo Server running at this url http://localhost:1234)"
   },
   "keywords": [],
   "author": "",
